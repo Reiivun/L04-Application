@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Application</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name:</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="size_of_group">Size of group:</string>
+    <string name="enter_size_of_group_including_yourself">Enter size of group (including yourself)</string>
+    <string name="smoking_or_non_smoking_table">Smoking or non-smoking table?</string>
+    <string name="smoking">Smoking</string>
+    <string name="non_smoking">Non-Smoking</string>
+    <string name="select_the_time_for_your_reservation">-- Select the time for your reservation --</string>
+    <string name="select_the_date_for_your_reservation">-- Select the date for your reservation --</string>
+    <string name="clear_inputs">Clear Inputs</string>
+    <string name="confirm">Confirm</string>
+</resources>
